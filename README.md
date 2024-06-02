@@ -3,7 +3,7 @@
 # Implementing Vision Transformer for Classifying 2D Biomedical Images
 Arindam Halder, Sanghita Gharami, Priyangshu Sadhu, Pawan Kumar Singh<sup>[[0000-0002-9598-7981](https://orcid.org/0000-0002-9598-7981)]</sup>, Marcin Wozniak*<sup>[[0000-0002-9073-5347](https://orcid.org/0000-0002-9073-5347)]</sup>, Muhammad Fazal Ijaz*<sup>[[0000-0001-5206-272X](https://orcid.org/0000-0001-5206-272X)]</sup>
 
-(* Correspondence Authors)
+(* Corresponding Authors)
 
 This is the official implementation of the paper, "[Implementing vision transformer for classifying 2D biomedical images](https://www.nature.com/articles/s41598-024-63094-9)" published in "Scientific Reports (Nature)"
 
